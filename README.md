@@ -23,10 +23,13 @@
 - 담당 : 전체적으로 같이 코딩 수정 및 개발 진행
 - 사용 언어 : matlab, python
 - 개발 환경 : SSH, VPN viewer, GPU desktop, laptop
+### 클라우드 IoT 서비
+- 2020.03 ~ 2020.06
+- https://github.com/leehyojeong/CloudIotService
 ### AWS : 쓰레기 처리 알람
-- https://github.com/leehyojeong/SmartCity_trashcans
 - 클라우드웹서비스
-- 코드, 보고서 찾는 중
+- 코드랑 보고서 어디감(?)
+- https://github.com/leehyojeong/SmartCity_trashcans
 ### AWS : smart door lock system
 - 클라우드IoT서비스
 - IoT 기본 개발 경험 
