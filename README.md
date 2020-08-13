@@ -24,6 +24,7 @@
 - 사용 언어 : matlab, python
 - 개발 환경 : SSH, VPN viewer, GPU desktop, laptop
 ### AWS : 쓰레기 처리 알람
+- https://github.com/leehyojeong/SmartCity_trashcans
 - 클라우드웹서비스
 - 코드, 보고서 찾는 중
 ### AWS : smart door lock system
