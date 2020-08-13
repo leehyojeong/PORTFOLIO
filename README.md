@@ -3,7 +3,7 @@
 ## contact
 - 이메일 : hyojung120@naver.com / temeraire120@gmail.com
 - github : 
-- trello : 
+- trello : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ## projects
 ### 연구장학 
@@ -90,24 +90,20 @@
 - 웹 게임 같은거 도움 : 동아리 
 
 ## lectures
-- 강의 수업 정리 : 블로그 등록할 것 
-  - C 프로그래밍
-  - C++ 
-  - JAVA
+- 강의 수업 정리(블로그) : https://blog.naver.com/hyojung120
   - 자료구조
   - 웹프로그래밍
-  - 전기프1
-  - 전기프2
+  - 전기프
+  - 
   - 시스템프로그래밍
   - 알고리즘
   - 컴퓨터구조
   - 전산수학
   - 데이터베이스
   - 모바일프로그래밍
-  - 산협프1
   - 운영체제
   - 의생명정보학(R)
-  - 졸프
+  - 졸프 
   - 네트워크프로그래밍
   - 암호학이론
   - 오픈소스
