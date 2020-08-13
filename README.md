@@ -31,10 +31,11 @@
 - 코드랑 보고서 어디감(?)
 - https://github.com/leehyojeong/SmartCity_trashcans
 ### AWS : Smart Door Lock System
+- 2020.05 ~ 2020.06
 - 클라우드IoT서비스
-- IoT 기본 개발 경험 
-- AWS 대표적인 서비스들의 전반적인 사용 방법 학습
-- 사용법을 익힘으로써 자유로운 사용 및 매끄러운 연결
+- S3, EC2, Lambda, Rekognition 등 전반적인 AWS 서비스의 사용 방법에 대해 학습
+- 여러 가지 서비스들을 자유자재로 사용할 수 있는 능력 습득
+- https://github.com/leehyojeong/SmartDoorLockSystem
 ### 임베디드 라즈베리 파이 최종 프로젝트 
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT
