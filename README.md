@@ -2,7 +2,7 @@
 
 ## contact
 - 이메일 : hyojung120@naver.com / temeraire120@gmail.com
-- github : 
+- github : https://github.com/leehyojeong
 - trello : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ## projects
@@ -23,14 +23,14 @@
 - 담당 : 전체적으로 같이 코딩 수정 및 개발 진행
 - 사용 언어 : matlab, python
 - 개발 환경 : SSH, VPN viewer, GPU desktop, laptop
-### 클라우드 IoT 서비
+### 클라우드 IoT 서비스
 - 2020.03 ~ 2020.06
 - https://github.com/leehyojeong/CloudIotService
 ### AWS : 쓰레기 처리 알람
 - 클라우드웹서비스
 - 코드랑 보고서 어디감(?)
 - https://github.com/leehyojeong/SmartCity_trashcans
-### AWS : smart door lock system
+### AWS : Smart Door Lock System
 - 클라우드IoT서비스
 - IoT 기본 개발 경험 
 - AWS 대표적인 서비스들의 전반적인 사용 방법 학습
