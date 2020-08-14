@@ -28,9 +28,11 @@
 - S3, EC2, Lambda, Rekognition 등 전반적인 AWS 서비스의 사용 방법에 대해 학습
 - 여러 가지 서비스들을 자유자재로 사용할 수 있는 능력 습득
 - https://github.com/leehyojeong/SmartDoorLockSystem
-### 임베디드 라즈베리 파이 최종 프로젝트 
+### Embedded Computing : Final Project 
+- 2019.11 ~ 2019.12
 - 폭탄 해제 느낌의 게임 용도로 개발 
-- MQTT
+- MQTT & Raspberry Pi
+- https://github.com/leehyojeong/EmbeddedComputing/blob/master/README.md
 ### 웹 최종 프로젝트 
 - 웹 프로그래밍
 - 개인 사이트 만들기 
