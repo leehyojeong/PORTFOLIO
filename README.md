@@ -16,7 +16,7 @@
 - 논문 작성
 - https://github.com/leehyojeong/SSD-FBCSP-1dAugmentation
 ### 클라우드 IoT 서비스
-- 2020.03 ~ 2020.06
+- 2020.03 ~ 2020.07
 - https://github.com/leehyojeong/CloudIotService
 ### AWS : 쓰레기 처리 알람
 - 클라우드웹서비스
@@ -28,6 +28,10 @@
 - S3, EC2, Lambda, Rekognition 등 전반적인 AWS 서비스의 사용 방법에 대해 학습
 - 여러 가지 서비스들을 자유자재로 사용할 수 있는 능력 습득
 - https://github.com/leehyojeong/SmartDoorLockSystem
+### Embedded Computing 
+- 2019.09 ~ 2019.12
+- led show : 
+- ioctl : https://github.com/leehyojeong/EmbeddedComputing/tree/master/ioctl
 ### Embedded Computing : Final Project 
 - 2019.11 ~ 2019.12
 - 폭탄 해제 느낌의 게임 용도로 개발 
