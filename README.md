@@ -15,6 +15,9 @@
 - 전처리 된 데이터를 기반으로 동작 상상을 구분할 딥러닝 모델 구현
 - 논문 작성
 - https://github.com/leehyojeong/SSD-FBCSP-1dAugmentation
+### 클라우드 웹 서비스
+- 2019.09 ~ 2019.12
+- 
 ### 클라우드 IoT 서비스
 - 2020.03 ~ 2020.07
 - https://github.com/leehyojeong/CloudIotService
