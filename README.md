@@ -8,9 +8,13 @@
 - trello : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ## projects
-### 연구장학 
+### SSD+FBCSP+1D-Augmentation 
 - 2019.06 ~ 2020.07
-- (링크)
+- 연구장학
+- 시계열 데이터에 해당하는 EEG(뇌파 데이터) 전처리
+- 전처리 된 데이터를 기반으로 동작 상상을 구분할 딥러닝 모델 구현
+- 논문 작성
+- https://github.com/leehyojeong/SSD-FBCSP-1dAugmentation
 ### 클라우드 IoT 서비스
 - 2020.03 ~ 2020.06
 - https://github.com/leehyojeong/CloudIotService
