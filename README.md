@@ -15,19 +15,20 @@
 - 전처리 된 데이터를 기반으로 동작 상상을 구분할 딥러닝 모델 구현
 - 논문 작성
 - https://github.com/leehyojeong/SSD-FBCSP-1dAugmentation
-### 클라우드 웹 서비스
+### AWS : Smart Home & Smart City
 - 2019.09 ~ 2019.12
-- 
-### 클라우드 IoT 서비스
-- 2020.03 ~ 2020.07
-- https://github.com/leehyojeong/CloudIotService
+- Cloud Web Service
 ### AWS : 쓰레기 처리 알람
-- 클라우드웹서비스
+- 2019.11 ~ 2019.12
+- Cloud Web Service
 - 코드랑 보고서 어디감(?)
 - https://github.com/leehyojeong/SmartCity_trashcans
+### AWS : Cloud IoT Service
+- 2020.03 ~ 2020.07
+- https://github.com/leehyojeong/CloudIotService
 ### AWS : Smart Door Lock System
 - 2020.05 ~ 2020.06
-- 클라우드IoT서비스
+- Cloud IoT Service
 - S3, EC2, Lambda, Rekognition 등 전반적인 AWS 서비스의 사용 방법에 대해 학습
 - 여러 가지 서비스들을 자유자재로 사용할 수 있는 능력 습득
 - https://github.com/leehyojeong/SmartDoorLockSystem
@@ -69,11 +70,11 @@
 - Android 연결, 서버 담당, 디자인, UI/UX
 - GPU desktop을 사용하여 딥러닝 : YOLO, SSD 등 객체 탐지 알고리즘 사전 조사 및 학습, 코드 구현 경험
 - 리눅스 개발 환경 구축 경험 : GPU, NVIDIA 미친 설치 
-### 외주 경험(?) : 유튜브 창업 도움
+### 외주 : 유튜브 창업 도움
 - 후배 도움 창업 도움 
 - 인플루언서(?) 정보 유튜브로 크롤링 - python 사용
 - 당시 유튜브, 인스타 등 SNS 정보 정책 변경으로 인한 크롤링 어려움 : 선배 왈
-### 외주 경험(?) : 앱 UI/UX 도움 및 페이지 연결, 작동 + 디자인
+### 외주 : 앱 UI/UX 도움 및 페이지 연결, 작동 + 디자인
 - 기간 : 3개월 2019? 
 - 학생, 선생님 매칭 시스템 
 - 전체 디자인 담당
