@@ -30,8 +30,8 @@
 - https://github.com/leehyojeong/SmartDoorLockSystem
 ### Embedded Computing 
 - 2019.09 ~ 2019.12
-- led show : 
-- ioctl : https://github.com/leehyojeong/EmbeddedComputing/tree/master/ioctl
+- C 모듈을 이용한 LED_Show : https://github.com/leehyojeong/EmbeddedComputing/tree/master/LEDshow
+- ioctl을 통한 GPIO 제어 : https://github.com/leehyojeong/EmbeddedComputing/tree/master/ioctl
 ### Embedded Computing : Final Project 
 - 2019.11 ~ 2019.12
 - 폭탄 해제 느낌의 게임 용도로 개발 
