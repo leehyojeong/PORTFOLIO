@@ -32,7 +32,7 @@
 - 2019.11 ~ 2019.12
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
-- https://github.com/leehyojeong/EmbeddedComputing/blob/master/README.md
+- https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
 ### 웹 최종 프로젝트 
 - 웹 프로그래밍
 - 개인 사이트 만들기 
