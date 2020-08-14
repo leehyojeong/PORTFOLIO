@@ -18,6 +18,7 @@
 ### AWS : Smart Home & Smart City
 - 2019.09 ~ 2019.12
 - Cloud Web Service
+- https://github.com/leehyojeong/CloudWebService
 ### AWS : 쓰레기 처리 알람
 - 2019.11 ~ 2019.12
 - Cloud Web Service
@@ -41,6 +42,8 @@
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
+
+__(아래) 정리중)__
 ### 웹 최종 프로젝트 
 - 웹 프로그래밍
 - 개인 사이트 만들기 
