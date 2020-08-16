@@ -22,7 +22,7 @@
 ### AWS : 쓰레기 처리 알람
 - 2019.11 ~ 2019.12
 - Cloud Web Service
-- 코드랑 보고서 어디감(?)
+- 코드 찾아
 - https://github.com/leehyojeong/SmartCity_trashcans
 ### AWS : Cloud IoT Service
 - 2020.03 ~ 2020.07
@@ -56,9 +56,10 @@
 - DHCP server와 Router : https://blog.naver.com/hyojung120/222062233119
 ### 안드로이드 : 영어 단어장
 - 2019.04
-- 
+- https://github.com/leehyojeong/WordBook/tree/master
 ### 안드로이드 : 책 추천 및 리뷰 SNS
-- 2019
+- 2019.05 ~ 2019.07
+- 코드 찾
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
