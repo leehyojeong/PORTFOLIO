@@ -44,7 +44,7 @@
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
-- 
+- https://github.com/leehyojeong/SmartKartProject
 __(아래) 정리중__
 ### 웹 최종 프로젝트 
 - 웹 프로그래밍
