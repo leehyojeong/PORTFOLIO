@@ -42,6 +42,10 @@
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
+### 시스템 프로그래밍 : Pokemon
+- 2018.10 ~ 2018.12
+- VM ware, Linux, C 사용
+- https://github.com/leehyojeong/Pokemon
 ### 협동분산시스템 : CM Project(Time Client-Server)
 - 2020.06
 - https://github.com/leehyojeong/TimeCMproject
@@ -66,15 +70,14 @@
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
 
+
+
 __(아래) 정리중__
 ### 웹 최종 프로젝트 
 - Weq Programming (HTML, CSS, JavaScript, JQuery)
 - 개인 사이트 (개인)
 - 웹 게임 (2인 팀 프로젝트) 
 - 웹 매거진 (4인 팀 프로젝트) 
-### 시스템 프로그래밍
-- Linux 사용
-- VM ware
 ### 산협프
 - C++
 - 학교 공간 대여 시스템
