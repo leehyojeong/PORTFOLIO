@@ -53,19 +53,24 @@
 - 2020.05 ~ 2020.07
 - Team Project
 - https://github.com/leehyojeong/ProjectCM
-### 컴퓨터네트워크 : Cisco Packet Tracer
+### Computer Network : Cisco Packet Tracer
 - 2020.04 ~ 2020.06
 - 네트워크 구성 및 IP 설정 : https://blog.naver.com/hyojung120/222062210442
 - DNS, HTTP, MAIL, FTP 사용 : https://blog.naver.com/hyojung120/222062222598
 - DHCP server와 Router : https://blog.naver.com/hyojung120/222062233119
-### 안드로이드 : 영어 단어장
+### Android : 영어 단어장
 - 2019.04
 - https://github.com/leehyojeong/WordBook/tree/master
-### 안드로이드 : 책 추천 및 리뷰 SNS
+### Android : 책 추천 및 리뷰 SNS
 - 2019.05 ~ 2019.07
-### 안드로이드 : 질병 검색 및 관련 병원 추천 어플
+### Android : 질병 검색 및 관련 병원 추천 어플
 - 2018.03 ~ 2018.07
 - https://github.com/leehyojeong/DontSick
+### Web Programming
+- HTML, CSS, JavaScript, JQuery
+- 개인 사이트 : 
+- 웹 게임 : 
+- 웹 매거진 : 
 ### 졸업 프로젝트 : Smart Kart
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
@@ -73,11 +78,7 @@
 
 
 __(아래) 정리중__
-### 웹 최종 프로젝트 
-- Weq Programming (HTML, CSS, JavaScript, JQuery)
-- 개인 사이트 (개인)
-- 웹 게임 (2인 팀 프로젝트) 
-- 웹 매거진 (4인 팀 프로젝트) 
+
 ### 산협프
 - C++
 - 학교 공간 대여 시스템
