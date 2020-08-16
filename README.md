@@ -42,8 +42,10 @@
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
-
-__(아래) 정리중)__
+### 졸업 프로젝트
+- 2019.09 ~ 2020.06
+- 
+__(아래) 정리중__
 ### 웹 최종 프로젝트 
 - 웹 프로그래밍
 - 개인 사이트 만들기 
@@ -67,12 +69,6 @@ __(아래) 정리중)__
 ### 모바일 최종 프로젝트 
 - 책 소통, 추천 SNS
 - 디자인, 전체 Andorid
-### 졸업 프로젝트 
-- 스마트 카트
-- AWS : EC2, S3, DynamoDB, Rekognition
-- Android 연결, 서버 담당, 디자인, UI/UX
-- GPU desktop을 사용하여 딥러닝 : YOLO, SSD 등 객체 탐지 알고리즘 사전 조사 및 학습, 코드 구현 경험
-- 리눅스 개발 환경 구축 경험 : GPU, NVIDIA 미친 설치 
 ### 외주 : 유튜브 창업 도움
 - 후배 도움 창업 도움 
 - 인플루언서(?) 정보 유튜브로 크롤링 - python 사용
