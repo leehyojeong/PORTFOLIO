@@ -23,7 +23,6 @@
 ### AWS : 쓰레기 처리 알람
 - 2019.11 ~ 2019.12
 - Cloud Web Service
-- 코드 찾아야 함
 - https://github.com/leehyojeong/SmartCity_trashcans
 ### AWS : Cloud IoT Service
 - 2020.03 ~ 2020.07
@@ -60,7 +59,6 @@
 - https://github.com/leehyojeong/WordBook/tree/master
 ### 안드로이드 : 책 추천 및 리뷰 SNS
 - 2019.05 ~ 2019.07
-- 코드 찾아야 함
 ### 안드로이드 : 질병 검색 및 관련 병원 추천 어플
 - 2018.03 ~ 2018.07
 - https://github.com/leehyojeong/DontSick
@@ -88,22 +86,20 @@ __(아래) 정리중__
 - 학생, 선생님 매칭 시스템 
 - 전체 UI/UX 디자인
 - 페이지 연결, 이동 부분, 데이터 등록과 같이 애플리케이션의 자연스러운 동작을 구현
-- 코드 찾아야 함
 
 ## study/동아리
 ### 튜터 
-- 자바 강의 튜터 
-- 동아리 자바 튜터/C++ 튜터/모바일 튜터
+- 2018
+  - 자바 강의 튜터 
+  - 동아리 자바 튜터/C++ 튜터/안드로이드 튜터
 ### 알고리즘 스터디
-- 각 학년별로 작성 2, 3, 4
-- trello 링크 + gtihub 파일 올리기 
-- trello 개인 : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+- 2018 : 
+- 2019 : 
+- 2020 : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 ### 웹 스터디
-- 초기 웹 css, html 작성 
-- 해커톤 1박 2일 했던 거 : 501 - 17동기들 + 영호 형
-- 자바스크립트, jquery
-### 모바일 스터디
-- 웹 게임 같은거 도움 : 동아리 
+- 2018
+- HTML, CSS, JavaScript, JQuery (프론트엔드)
+- 해커톤 (4인 3팀)
 
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
