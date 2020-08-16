@@ -22,7 +22,7 @@
 ### AWS : 쓰레기 처리 알람
 - 2019.11 ~ 2019.12
 - Cloud Web Service
-- 코드 찾아
+- 코드 찾아야 함
 - https://github.com/leehyojeong/SmartCity_trashcans
 ### AWS : Cloud IoT Service
 - 2020.03 ~ 2020.07
@@ -59,7 +59,7 @@
 - https://github.com/leehyojeong/WordBook/tree/master
 ### 안드로이드 : 책 추천 및 리뷰 SNS
 - 2019.05 ~ 2019.07
-- 코드 찾
+- 코드 찾아야 함
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
