@@ -42,8 +42,12 @@
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
+### 협동분산시스템 : CM Project(Time Client-Server)
+- 2020.06
+- https://github.com/leehyojeong/TimeCMproject
 ### 협동분산시스템 : CM Project(Middleware) 
 - 2020.05 ~ 2020.07
+- Team Project
 - https://github.com/leehyojeong/ProjectCM
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
@@ -59,8 +63,6 @@ __(아래) 정리중__
 ### 시스템 프로그래밍 : 
 - 리눅스를 사용의 기초를 익힐 수 있었음 
 - VM machine을 사용한 게임 개발
-
-
 ### 전기프
 - 모바일 프로그래밍 수강 전 독학(인터넷, 책)
 ### 산협프
