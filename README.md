@@ -28,7 +28,7 @@
 - 2020.03 ~ 2020.07
 - https://github.com/leehyojeong/CloudIotService
 ### AWS : Smart Door Lock System
-- 2020.05 ~ 2020.06
+- 2020.05 ~ 2020.07
 - Cloud IoT Service
 - S3, EC2, Lambda, Rekognition 등 전반적인 AWS 서비스의 사용 방법에 대해 학습
 - 여러 가지 서비스들을 자유자재로 사용할 수 있는 능력 습득
@@ -42,6 +42,9 @@
 - 폭탄 해제 느낌의 게임 용도로 개발 
 - MQTT & Raspberry Pi
 - https://github.com/leehyojeong/EmbeddedComputing/tree/master/FinalProject
+### 협동분산시스템 : CM Project(Middleware) 
+- 2020.05 ~ 2020.07
+- https://github.com/leehyojeong/ProjectCM
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
@@ -56,12 +59,8 @@ __(아래) 정리중__
 ### 시스템 프로그래밍 : 
 - 리눅스를 사용의 기초를 익힐 수 있었음 
 - VM machine을 사용한 게임 개발
-### CM 프로젝트 : 미들웨어 
-- 기존 CM 프로젝트의 문제점을 찾아 개발 
-- 서버와 클라이언트 목록이 제대로 나타나지 않았던 점
-- 어떻게 효율성을 높일지에 대한 고찰
-- 이전 프로젝트들과 달리 새로운 개발이 아닌 보수/유지 느낌의 프로젝트 진행
-- 구현해야하는 부분은 결과적으로나 비교적 간단했지만 어떻게 고칠지 생각해야하고, 전체적인 코드의 흐름, 실행 방식을 완전히 파악해야한다는 점에서 중요성(?)/어려움을 느낌
+
+
 ### 전기프
 - 모바일 프로그래밍 수강 전 독학(인터넷, 책)
 ### 산협프
