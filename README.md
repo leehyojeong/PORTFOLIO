@@ -54,6 +54,11 @@
 - 네트워크 구성 및 IP 설정 : https://blog.naver.com/hyojung120/222062210442
 - DNS, HTTP, MAIL, FTP 사용 : https://blog.naver.com/hyojung120/222062222598
 - DHCP server와 Router : https://blog.naver.com/hyojung120/222062233119
+### 안드로이드 : 영어 단어장
+- 2019.04
+- 
+### 안드로이드 : 책 추천 및 리뷰 SNS
+- 2019
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
@@ -73,9 +78,7 @@ __(아래) 정리중__
 ### 산협프
 - 병원, 질병 관련 프로젝트 : dontsick
 - 깃헙 링크
-### 모바일 최종 프로젝트 
-- 책 소통, 추천 SNS
-- 디자인, 전체 Andorid
+
 ### 외주 : 유튜브 창업 도움
 - 후배 도움 창업 도움 
 - 인플루언서(?) 정보 유튜브로 크롤링 - python 사용
