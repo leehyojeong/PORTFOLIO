@@ -49,6 +49,11 @@
 - 2020.05 ~ 2020.07
 - Team Project
 - https://github.com/leehyojeong/ProjectCM
+### 컴퓨터네트워크 : Cisco Packet Tracer
+- 2020.04 ~ 2020.06
+- 네트워크 구성 및 IP 설정 : https://blog.naver.com/hyojung120/222062210442
+- DNS, HTTP, MAIL, FTP 사용 : https://blog.naver.com/hyojung120/222062222598
+- DHCP server와 Router : https://blog.naver.com/hyojung120/222062233119
 ### 졸업 프로젝트
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
@@ -89,7 +94,7 @@ __(아래) 정리중__
 - 동아리 자바 튜터/C++ 튜터/모바일 튜터
 ### 알고리즘 스터디
 - 각 학년별로 작성 2, 3, 4
-- trello 링크 + 깃험 파일 올리기 
+- trello 링크 + gtihub 파일 올리기 
 - trello 개인 : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 ### 웹 스터디
 - 초기 웹 css, html 작성 
