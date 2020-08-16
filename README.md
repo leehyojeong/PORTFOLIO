@@ -62,7 +62,7 @@
 ### 안드로이드 : 질병 검색 및 관련 병원 추천 어플
 - 2018.03 ~ 2018.07
 - https://github.com/leehyojeong/DontSick
-### 졸업 프로젝트
+### 졸업 프로젝트 : Smart Kart
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
 
