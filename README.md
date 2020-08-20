@@ -66,7 +66,14 @@
 ### Android : 질병 검색 및 관련 병원 추천 어플
 - 2018.03 ~ 2018.07
 - https://github.com/leehyojeong/DontSick
+### Android : (외주)학생과 선생님 매칭 시스템 UI/UX
+- 2019.11 ~ 2020.02
+- 전체 UI/UX 디자인
+### Web Programming : 유튜브 인플루언서 크롤링
+- 2018.07 ~ 2018.08
+- Python
 ### Web Programming
+- 2018.03 ~ 2018.07
 - HTML, CSS, JavaScript, JQuery
 - 개인 사이트 : 
 - 웹 게임 : 
@@ -74,22 +81,12 @@
 ### 졸업 프로젝트 : Smart Kart
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
-
-
-
-__(아래) 정리중__
-
-### 산협프
+### 전공기초프로젝트(2) : 명단 관리 프로그램
 - C++
-- 학교 공간 대여 시스템
-### 외주 : 유튜브 크롤링
-- Python
-- 인플루언서 정보 유튜브 크롤링 
-### 외주 : 앱 UI/UX 도움 및 페이지 연결, 작동 + 디자인
-- 2019.11 ~ 2020.02
-- 학생, 선생님 매칭 시스템 
-- 전체 UI/UX 디자인
-- 페이지 연결, 이동 부분, 데이터 등록과 같이 애플리케이션의 자연스러운 동작을 구현
+- https://github.com/leehyojeong/ListManagement
+### 산학협력프로젝트(1) : 공간 대여 시스템
+- C++
+- https://github.com/leehyojeong/RoomRental
 
 ## study/동아리
 ### 튜터 
