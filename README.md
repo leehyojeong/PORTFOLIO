@@ -1,7 +1,6 @@
 # PORTFOLIO
 - 프로젝트, 코드 등은 github
 - 이론, 강의 자료는 개인 블로그
-- __정리중__
 
 ## contact
 - 이메일 : hyojung120@naver.com / temeraire120@gmail.com
