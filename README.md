@@ -105,6 +105,7 @@
 - 해커톤 (4인 3팀)
 ### 개인 공부
 - PaintJS : https://github.com/leehyojeong/paintjs
+- Interactiv Developer 유튜브  : https://github.com/leehyojeong/Interactive
 
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
