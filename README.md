@@ -98,7 +98,7 @@
 - 2019 : 
 - 2020(스터디) : https://trello.com/b/TNdDfqUX/%EC%95%8C%ED%94%84%EC%8A%A42020-7%EC%A1%B0
 - 2020(개인) : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
-- 2020(스터디) : 11월 7일 시작
+- 2020(스터디) : https://trello.com/b/fzZuNJe1/algorithm-study
 ### 웹 스터디
 - 2018
 - HTML, CSS, JavaScript, JQuery (프론트엔드)
