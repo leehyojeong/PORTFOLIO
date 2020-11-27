@@ -6,7 +6,6 @@
 - 이메일 : hyojung120@naver.com / temeraire120@gmail.com
 - github : https://github.com/leehyojeong
 - blog : https://blog.naver.com/hyojung120
-- trello : https://trello.com/b/lECYYjKl/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
 
 ## projects
 ### SSD+FBCSP+1D-Augmentation 
