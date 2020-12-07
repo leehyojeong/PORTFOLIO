@@ -105,6 +105,7 @@
 ### 개인 공부
 - PaintJS : https://github.com/leehyojeong/paintjs
 - Interactiv Developer 유튜브  : https://github.com/leehyojeong/Interactive
+- NodeJS Server 공부 : https://github.com/leehyojeong/nodeJS_server_test
 
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
