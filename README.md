@@ -106,7 +106,7 @@
 - PaintJS : https://github.com/leehyojeong/paintjs
 - Interactiv Developer 유튜브  : https://github.com/leehyojeong/Interactive
 - NodeJS Server 공부 : https://github.com/leehyojeong/nodeJS_server_test
-
+- 포트폴리오 페이지 제작 중 : 
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
   - 자료구조
