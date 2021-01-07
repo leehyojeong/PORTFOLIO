@@ -104,9 +104,9 @@
 - 해커톤 (4인 3팀)
 ### 개인 공부
 - PaintJS : https://github.com/leehyojeong/paintjs
-- Interactiv Developer 유튜브  : https://github.com/leehyojeong/Interactive
+- Interactive Developer 유튜브  : https://github.com/leehyojeong/Interactive
 - NodeJS Server 공부 : https://github.com/leehyojeong/nodeJS_server_test
-- 포트폴리오 페이지 제작 중 : 
+- 포트폴리오 페이지 제작 중 : https://github.com/leehyojeong/nodeJS_server_test/tree/master/portfolio
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
   - 자료구조
