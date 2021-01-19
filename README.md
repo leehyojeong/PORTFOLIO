@@ -101,7 +101,7 @@
 ### 웹 스터디
 - 2018
 - HTML, CSS, JavaScript, JQuery (프론트엔드)
-- 해커톤 (4인 3팀)
+- 해커톤
 ### 개인 공부
 - PaintJS : https://github.com/leehyojeong/paintjs
 - Interactive Developer 유튜브  : https://github.com/leehyojeong/Interactive
