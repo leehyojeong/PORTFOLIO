@@ -107,6 +107,7 @@
 - Interactive Developer 유튜브  : https://github.com/leehyojeong/Interactive
 - NodeJS Server 공부 : https://github.com/leehyojeong/nodeJS_server_test
 - 포트폴리오 페이지 제작 중 : https://github.com/leehyojeong/nodeJS_server_test/tree/master/portfolio
+- React 맛보기! : https://github.com/leehyojeong/movie_app
 ## lectures
 - 강의 정리 : https://blog.naver.com/hyojung120
   - 자료구조
