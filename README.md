@@ -86,6 +86,10 @@
 ### 산학협력프로젝트(1) : 공간 대여 시스템
 - C++
 - https://github.com/leehyojeong/RoomRental
+### AI 해커톤
+- 2021.02.15 ~ 2021.02.19
+- 단비 AI, Bootstrap, Firestore, 웹 프로그래밍, ngrok
+- https://www.notion.so/hyomo3o/5-Corokinator-6d502336f7584da9ba928afffd2059f6
 
 ## study/동아리
 ### 튜터 
