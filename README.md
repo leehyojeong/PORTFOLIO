@@ -74,9 +74,9 @@
 ### Web Programming
 - 2018.03 ~ 2018.07
 - HTML, CSS, JavaScript, JQuery
-- 개인 사이트 : 
-- 웹 게임 : 
-- 웹 매거진 : 
+- 개인 사이트
+- 웹 게임
+- 웹 매거진
 ### 졸업 프로젝트 : Smart Kart
 - 2019.09 ~ 2020.06
 - https://github.com/leehyojeong/SmartKartProject
@@ -89,7 +89,8 @@
 ### AI 해커톤
 - 2021.02.15 ~ 2021.02.19
 - 단비 AI, Bootstrap, Firestore, 웹 프로그래밍, ngrok
-- https://www.notion.so/hyomo3o/5-Corokinator-6d502336f7584da9ba928afffd2059f6
+- 코드 : https://github.com/leehyojeong/Corokinator
+- 개발일지 노션 링크 : https://www.notion.so/hyomo3o/5-Corokinator-6d502336f7584da9ba928afffd2059f6
 
 ## study/동아리
 ### 튜터 
